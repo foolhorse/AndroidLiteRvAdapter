@@ -1,6 +1,5 @@
 package me.machao.litervadapter.sample;
 
-import android.view.View;
 import android.widget.TextView;
 
 import me.machao.litervadapter.LiteModel;
