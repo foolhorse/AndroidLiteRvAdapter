@@ -75,7 +75,7 @@ public class TextRvAdapter extends RecyclerView.Adapter {
     private List<TextItem> textItemFrom(List<?> objList, String fieldName) throws NoSuchFieldException, IllegalAccessException {
         List<TextItem> list = new ArrayList<>();
         for (Object obj : objList) {
-            Class clz = obj.getClass();
+            Class<?> clz = obj.getClass();
             Field field = clz.getField(fieldName);
 //                if(!field.isAccessible()) {
 //                    field.setAccessible(true);
