@@ -1,6 +1,6 @@
 # AndroidLiteRvAdapter
 
-[![Build Status](https://travis-ci.org/foolhorse/AndroidLiteRvAdapter.svg?branch=master)](https://travis-ci.org/foolhorse/AndroidLiteRvAdapter)
+[![Build Status](https://travis-ci.org/foolhorse/AndroidLiteRvAdapter.svg?branch=master)](https://travis-ci.org/foolhorse/AndroidLiteRvAdapter) [![Join the chat at https://gitter.im/AndroidLiteRvAdapter/Lobby](https://badges.gitter.im/AndroidLiteRvAdapter/Lobby.svg)](https://gitter.im/AndroidLiteRvAdapter/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 `LiteRvAdapter` provide a simple way to use RecyclerView in most simple situation.
 
